@@ -63,7 +63,7 @@
 ![](PNG_ESP-SensorGroup.png)
 
 ### PDF
-- [](PDF_ESP-SensorGroup.pdf)
+- [PDF_ESP-SensorGroup.pdf](PDF_ESP-SensorGroup.pdf)
 
 ### Gerber ZIP
-- [](Gerber_ESP-SensorGroup.zip)
+- [Gerber_ESP-SensorGroup.zip](Gerber_ESP-SensorGroup.zip)
